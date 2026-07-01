@@ -46,7 +46,7 @@ I'm using GitHub to document my learning, research projects, and open-source wor
 
 ### Programming
 - Python
-- C++
+- C
 - MATLAB
 
 ### Operating Systems
@@ -54,12 +54,13 @@ I'm using GitHub to document my learning, research projects, and open-source wor
 - Git
 
 ## Current Research
-- Learning Droplet Dynamics on Partial Solid Surfaces using Physics-Informed Neural Networks.
+- Developing Physics-Informed Neural Networks (PINNs) for droplet dynamics on partially wettable solid surfaces.
 
 ## Currently Learning
+- Physics-Informed Neural Networks
 - Neural Operators
 - Deep Learning
-- HPC
+- High Performance Computing (HPC)
 - CUDA Programming
 
 ## Contact
@@ -69,5 +70,4 @@ I'm using GitHub to document my learning, research projects, and open-source wor
 - aman202134bh@gmail.com
   
 🔗 LinkedIn:
-https://www.linkedin.com/in/aman-kumar-74640728b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEjbpXNcfSyubtHp3oHQxSw%3D%3D
-
+https://www.linkedin.com/in/aman-kumar-74640728b
